@@ -3,7 +3,7 @@
 <p>
   I'm Sergio Arroni
 
-  - 🌐
+  - [My Web Page🌐](https://sergioarroni.github.io/SergioArroni_CV/)
 </p>
 
 <p align = "left">

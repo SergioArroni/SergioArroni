@@ -14,12 +14,12 @@
   </a>
 </p>
 
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=SergioArroni&theme=radical&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
-</p>
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioArroni&theme=radical&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
-</p>
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioArroni&theme=radical&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
-</p>
+ <br/>
+  <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=SergioArroni&theme=radical&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
+
+ <br/>
+ <img width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioArroni&theme=radical&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
+
+ <br/>
+  <img width="490" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioArroni&theme=radical&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
+

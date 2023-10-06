@@ -1,9 +1,8 @@
 
 # Hi there 👋
 <p>
-  I'm Sergio Arroni
+  I'm Sergio Arroni del Riego
 
-  - [My Web Page🌐](https://sergioarroni.github.io/SergioArroni_CV/)
 </p>
 
 <p align = "left">
